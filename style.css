@@ -1,0 +1,9 @@
+body{
+    background-image: url("https://i.pinimg.com/originals/2b/43/35/2b4335e79f7757f6914cbdf0410ab5eb.webp");
+    color: rgb(242, 255, 0);
+}
+#webcam{
+    border: 2px dashed black;
+    width: 350px;
+    height: 350px;
+}
